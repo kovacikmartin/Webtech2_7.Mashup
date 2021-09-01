@@ -1,0 +1,28 @@
+body
+{
+    width: 70%;
+    margin: auto;
+}
+
+#statsAllCountries
+{
+    margin-top: 20px;
+}
+
+#statsAllCountriesTable td:nth-child(2):hover
+{
+    cursor: pointer;
+}
+
+.mapContainer, .visitHoursContainer, .mostVisitedSiteContainer
+{
+    margin-top: 30px;
+}
+
+footer
+{
+    margin-top: 50px;
+    color: blue;
+    text-align: center;
+    font-size: 13px;
+}

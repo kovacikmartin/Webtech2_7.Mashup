@@ -1,0 +1,17 @@
+body{
+    width: 70%;
+    margin: auto;
+}
+
+#weatherCity, #weatherForecast
+{
+    margin-top: 20px;
+}
+
+footer
+{
+    margin-top: 50px;
+    color: blue;
+    text-align: center;
+    font-size: 13px;
+}
